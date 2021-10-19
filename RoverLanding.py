@@ -4,6 +4,7 @@ import logging
 # Assumptions
 # the lower-left coordinates are assumed to be 0,0.
 # The square directly North from (x, y) is (x, y+1).
+# Each rover will be finished sequentially
 
 
 # The roverCoordinates function returns the position of the rover after the series of signals
