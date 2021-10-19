@@ -11,4 +11,7 @@ Assumptions
  2. The square directly North from (x, y) is (x, y+1).
  
  3. Each rover will be finished sequentially
+
+The output will be returned as a dictionary which will have the co-ordinates and the heading
+since it would be more clear 
  
